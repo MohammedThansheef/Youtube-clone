@@ -1,0 +1,18 @@
+.recommended {
+  flex: 0.8;
+  background-color: #f9f9f9;
+  border-top: 1px solid lightgray;
+  padding: 30px 20px;
+  padding-bottom: 0;
+}
+
+.recommended h2 {
+  margin-left: 5px;
+  margin-bottom: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.recommended__videos {
+  display: flex;
+  flex-wrap: wrap;
+}
